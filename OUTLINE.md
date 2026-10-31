@@ -1,6 +1,3 @@
-Here is the complete outline. Copy everything below and paste it into a new file named `OUTLINE.md` in the repository.
-
-```markdown
 # Whose Superintelligence? Ideology, Power, and the Race to Machine Supremacy
 
 **A Detailed Book Outline**
@@ -212,6 +209,3 @@ Tone note: This outline is written in a deliberately critical register. It treat
 ---
 
 *End of consolidated outline. All prior expansions, including the fully detailed political-economy chapter, are incorporated. Tone is critical and unsparing by design.*
-```
-
-Once you’ve committed it, let me know if you want any revisions or additional chapters.
