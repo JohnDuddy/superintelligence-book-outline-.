@@ -18,16 +18,23 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ### Chapter 1: The Superintelligence Threshold — Definitions and Strategic Implications
 - Bostrom’s taxonomy and later refinements.
-- Recursive self-improvement pathways and current empirical constraints.
+- Recurrent self improvement pathways and current empirical constraints.
 - Orthogonality thesis: terminal goals need not include human welfare. This is not a minor technical caveat.
 - Instrumental convergence and why it is politically relevant once capability exceeds oversight.
 - Leading indicators labs actually use.
 - Core claim: “Intelligence” does not arrive pre-loaded with the values of the press release.
+- Authorial stance: Western/American philosophy should prevail; Chinese territorial authoritarianism and the doctrinally mandated cruelty of political Islam should not; the United States must win the race.
 
 ### Chapter 2: Pre-1956 Precursors
-- Mechanical philosophy, Laplace, Turing 1950.
-- Wiener’s early warnings about purpose mismatch—largely ignored once funding appeared.
-- Military origins of computing and their ideological contexts.
+- Mechanical philosophy, Laplace’s demon, and early sketches of centralized control.
+- Babbage, Lovelace, and calculation in service of administration and empire.
+- Fiction as constraint: Asimov’s Three Laws (and Zeroth Law) in *I, Robot*—elegant on the page, dependent on political assumptions that do not hold in practice.
+- Turing 1950 and the wartime origins of computing.
+- Wiener’s cybernetics and early warnings about purpose mismatch—largely ignored once funding appeared.
+- Contemporary U.S. echo: proposals for nationalization or public ownership of AI (Sanders sovereign wealth fund, Hawley Energy Department review with nationalization pathway, Karp) versus data-center moratoria and restrictions (Sanders/Ocasio-Cortez, Hochul, Rogers, Abbott).
+- Nuclear counter-example: U.S. regulatory and permitting regime largely halted new construction (Vogtle delays and overruns); France’s Messmer Plan produced a sustained ~70% nuclear share; China’s continuous state-directed buildout has produced the largest construction pipeline and faster delivery at lower reported cost.
+- Parallel Soviet and early Chinese uses of computation as instruments of planning and control.
+- Core claim: machines do not select their political masters; masters select the machines and define the objectives. Calculation has always been easier to justify when it serves power.
 
 ### Chapter 3: Symbolic AI, Winters, and Parallel Programs (1956–2012)
 - Dartmouth optimism and its rapid collision with reality.
@@ -208,4 +215,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. All prior expansions, including the fully detailed political-economy chapter, are incorporated. Tone is critical and unsparing by design.*
+*End of consolidated outline. All prior expansions, including the fully detailed political-economy chapter and the expanded Chapter 2 (Asimov, Wiener/US policy, nuclear comparison), are incorporated. Tone is critical and unsparing by design.*
