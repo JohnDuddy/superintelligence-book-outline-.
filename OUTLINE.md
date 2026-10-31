@@ -16,7 +16,7 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ## Part I: Technical Trajectory and Intellectual History
 
-### Chapter 1: The Superintelligence Threshold — Definitions and Strategic Implications
+### Chapter 1: The Superintelligence Threshold — Definitions and Strategic Implications *(written)*
 - Bostrom’s taxonomy and later refinements.
 - Recurrent self improvement pathways and current empirical constraints.
 - Orthogonality thesis: terminal goals need not include human welfare. This is not a minor technical caveat.
@@ -25,7 +25,7 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Core claim: “Intelligence” does not arrive pre-loaded with the values of the press release.
 - Authorial stance: Western/American philosophy should prevail; Chinese territorial authoritarianism and the doctrinally mandated cruelty of political Islam should not; the United States must win the race.
 
-### Chapter 2: Pre-1956 Precursors
+### Chapter 2: Pre-1956 Precursors *(written)*
 - Mechanical philosophy, Laplace’s demon, and early sketches of centralized control.
 - Babbage, Lovelace, and calculation in service of administration and empire.
 - Fiction as constraint: Asimov’s Three Laws (and Zeroth Law) in *I, Robot*—elegant on the page, dependent on political assumptions that do not hold in practice.
@@ -36,11 +36,16 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Parallel Soviet and early Chinese uses of computation as instruments of planning and control.
 - Core claim: machines do not select their political masters; masters select the machines and define the objectives. Calculation has always been easier to justify when it serves power.
 
-### Chapter 3: Symbolic AI, Winters, and Parallel Programs (1956–2012)
+### Chapter 3: Symbolic AI, Winters, and Parallel Programs (1956–2012) *(written)*
 - Dartmouth optimism and its rapid collision with reality.
-- Expert systems and the first winter.
-- Connectionist revival.
-- Divergent state programs: prestige, planning, or military advantage.
+- Expert systems (DENDRAL, MYCIN, etc.) and the first AI winter as both technical and funding verdict.
+- Connectionist revival: multilayer perceptrons, backpropagation (Rumelhart, Hinton, Williams; Sejnowski; McClelland/PDP), mathematical core as linear algebra plus nonlinearity.
+- Distinction from linear/logistic regression; extra capacity and opacity of learned weights.
+- GPU timeline (often confused): neural-network use begins 2006 (Chellapilla), 2009 (Raina, Madhavan, Ng), 2012 AlexNet (Krizhevsky, Sutskever, Hinton on GTX 580s); GPU Bitcoin mining begins mid-2010 (ArtForz et al.)—networks first, mining later.
+- Institutional shift: data and compute replace knowledge engineers; scaled first in liberal West academic/commercial settings (ONR, DARPA, NSF funding; not NSA-driven).
+- Failure modes: memorization, spurious correlations, opacity.
+- Parallel Soviet and Chinese programs treat computation as planning and control instruments.
+- Core claim: once learning is weight adjustment on data, the objectives that shape the data and loss become the system’s objectives. No separate ethical layer is inserted by the mathematics. Winters arrived when sponsors judged returns insufficient, not because the political question was resolved.
 
 ### Chapter 4: The Scaling Regime and Lab Divergence (2012–Present)
 - Scaling laws and emergent capabilities.
@@ -215,4 +220,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. All prior expansions, including the fully detailed political-economy chapter and the expanded Chapter 2 (Asimov, Wiener/US policy, nuclear comparison), are incorporated. Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–3 are written and saved. Chapter 3 now reflects the expanded neural-network treatment (mathematics, researchers, GPU timeline, institutional conditions). Tone is critical and unsparing by design.*
