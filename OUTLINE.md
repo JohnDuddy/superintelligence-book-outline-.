@@ -47,12 +47,14 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Parallel Soviet and Chinese programs treat computation as planning and control instruments.
 - Core claim: once learning is weight adjustment on data, the objectives that shape the data and loss become the system’s objectives. No separate ethical layer is inserted by the mathematics. Winters arrived when sponsors judged returns insufficient, not because the political question was resolved.
 
-### Chapter 4: The Scaling Regime and Lab Divergence (2012–Present)
-- Scaling laws and emergent capabilities.
-- Institutional histories and their governance models—nonprofit rhetoric versus capital and state realities.
-- Capital expenditure, data-center geography, talent flows.
-- Open-weight releases versus closed frontiers; export controls and their actual enforcement record.
-- Capability timeline.
+### Chapter 4: The Scaling Regime and Lab Divergence (2012–Present) *(written)*
+- 2012 AlexNet (Krizhevsky, Sutskever, Hinton) as marker; definitions of convolutional layers, ReLU activations, dropout, and GPU training.
+- Scaling as empirical regularity (power-law in compute/data) versus institutional exponential growth in resources.
+- Numerical examples: GPT-3 (~175B parameters, ~300B tokens, low 10²³ FLOPs); later runs to 10²⁵–10²⁶ FLOPs; cluster sizes from ~2 to 10,000+ GPUs; power from low MW to tens/hundreds of MW; capital from low billions to tens of billions per year.
+- Definitions of parameter, token, FLOP, cross-entropy loss, top-5 error, zero-shot transfer.
+- Lab structures: nonprofit rhetoric versus capital and competitive realities; closed versus open-weight; partial export-control enforcement.
+- Geographic concentration of largest clusters; talent and capital flows.
+- Core claim: scaling amplifies whichever constraint set (data, loss, post-training rules) is applied by the controlling institutions. It does not generate neutral intelligence or insert liberal, Leninist, or religious-legal objectives.
 
 ### Chapter 5: Alignment Research — Promises and Documented Shortfalls
 - Early proposals (CEV, indirect normativity) and their assumptions.
@@ -220,4 +222,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–3 are written and saved. Chapter 3 now reflects the expanded neural-network treatment (mathematics, researchers, GPU timeline, institutional conditions). Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–4 are written and saved. Chapter 4 now reflects the expanded scaling treatment (definitions of ReLU/dropout/GPU training, numerical examples of power-law performance and exponential resource growth). Tone is critical and unsparing by design.*
