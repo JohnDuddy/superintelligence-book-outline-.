@@ -69,13 +69,14 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ## Part II: Ideological Orders as Training Constraints
 
-### Chapter 6: Liberal Individualism — Texts, Institutions, and Internal Contradictions
+### Chapter 6: Liberal Individualism — Texts, Institutions, and Internal Contradictions *(written)*
 - Primary anchors: Locke, Mill, founding documents. Later revisions that expanded state and institutional power while retaining the brand.
 - Institutional machinery and documented erosions.
+- Governmental regulation as one of the least desirable primary mechanisms for alignment: political judgments reverse (slavery after the Declaration; eugenics and *Buck v. Bell*; Prohibition; treatment of homosexuality; industrial policy; energy rules; speech codes; equity mandates) while mathematics, physics, and empirical regularities do not.
 - How the values appear inside Western labs: refusal categories, demographic interventions, safety-team influence. The gap between stated liberal commitments and operational practice is not subtle.
 - Strengths (scientific output, error correction) and failure modes (capture, selective enforcement, difficulty constraining more capable systems).
 - Predicted optimization targets and prohibited action classes.
-- Counter-arguments: claims that contemporary Western institutions have already abandoned core premises—are addressed with evidence rather than assertion.
+- Core claim: entrusting terminal constraints primarily to changeable political authority imports ordinary reversals; systems amplify whichever constraint set is enforced during training.
 
 ### Chapter 7: The Chinese Party-State System
 - Leninist structure and the primacy of Party leadership. Not a minor administrative detail.
@@ -222,4 +223,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–5 are written and saved. Chapter 5 now reflects the clearer treatment of the inner-objective gap. Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–6 are written and saved. Chapter 6 now includes the critique of governmental regulation as a primary alignment mechanism, with historical examples of reversed political judgments versus stable empirical truths. Tone is critical and unsparing by design.*
