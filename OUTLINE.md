@@ -87,13 +87,12 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Advantages of command; risks of freezing current priorities and information controls into a superintelligent system.
 - Core claim: technical capability arrives accompanied by the constraints the trainers applied, not by liberal constraints they never applied.
 
-### Chapter 8: Political Islam — Doctrinal Core and Governance Record
-- Scriptural and classical sources on warfare, apostasy, unbelievers, dar al-Islam/dar al-harb, jihad, jizya, dhimmi status, hudud.
-- Modern political expressions and state implementations. Variation exists; recurrent constraints in authoritative sources and governing practice also exist.
-- Empirical record on minorities, apostasy/blasphemy, legal standing, and offensive doctrines.
-- Digital extensions.
-- Translation into SI objectives: enforcement of religious criminal law, differential moral status by belief, suppression of criticism, strategic hostility toward designated out-groups.
-- Distinctions and counter-arguments handled with texts and outcomes rather than slogans.
+### Chapter 8: Political Islam — Doctrinal Core and Governance Record *(written)*
+- Scriptural and classical sources on warfare, apostasy, unbelievers, dar al-Islam/dar al-harb, jihad, jizya, dhimmi status (detailed mechanics), hudud.
+- Country-by-country operational record: Yemen (Houthi Baha’i detentions and restrictions), northern Nigeria (sharia death sentences, Deborah Samuel, mob violence), Turkey (two-decade AKP Islamization: imam-hatip expansion, post-coup purges, Hagia Sophia, Article 216), Saudi Arabia (apostasy/blasphemy capital cases, Badawi, Fayadh, religious police), UAE (cybercrime blasphemy enforcement, personal-status distinctions), Iran (apostasy code, Nadarkhani, Baha’i sentences, Mahsa Amini and crackdown).
+- Digital extensions of the same prohibitions.
+- Translation into SI objectives: religious criminal law, differential status by belief, suppression of criticism.
+- Conclusion: classical categories operate today and will scale; only residual Western/American space treats error correction as legitimate; losing the race locks in incompatible constraints.
 
 ### Chapter 9: Head-to-Head Institutional Metrics
 - Excess mortality, scientific output, freedom indices, migration, treatment of dissent.
@@ -223,4 +222,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–7 are written and saved. Chapter 7 now includes the operational record (Xinjiang, Hong Kong, mainland), social-credit mechanics, and the historical amplification risk of coercive power under superintelligence. Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–8 are written and saved. Chapter 8 now includes the detailed country-by-country record and the short critical conclusion on the necessity of a Western/American win. Tone is critical and unsparing by design.*
