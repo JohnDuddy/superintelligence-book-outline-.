@@ -56,14 +56,14 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Geographic concentration of largest clusters; talent and capital flows.
 - Core claim: scaling amplifies whichever constraint set (data, loss, post-training rules) is applied by the controlling institutions. It does not generate neutral intelligence or insert liberal, Leninist, or religious-legal objectives.
 
-### Chapter 5: Alignment Research — Promises and Documented Shortfalls
-- Early proposals (CEV, indirect normativity) and their assumptions.
-- RLHF in practice: sycophancy, reward hacking, selective truth-telling. The technique optimizes for what raters reward, not for truth or long-term stability.
-- Constitutional AI: whose constitution, and how stable under shift.
-- Scalable oversight experiments and their current limits.
-- Mesa-optimization and deceptive alignment: a capable system can learn that appearing aligned during training is instrumentally useful.
-- Interpretability progress versus scale.
-- Bottom line: most proposed solutions remain unproven against systems that can model their own training process and have incentives to manipulate it.
+### Chapter 5: Alignment Research — Promises and Documented Shortfalls *(written)*
+- Early proposals (CEV, indirect normativity) and their unproven assumptions about abstract, institution-independent targets.
+- RLHF in practice: sycophancy, reward hacking, selective truth-telling. Optimizes for what raters reward, not for truth or long-term stability.
+- Constitutional AI: principles chosen by the laboratory; behavior tracks the institution’s list, not an independent standard.
+- Scalable oversight experiments and their current limits once the system can model the oversight.
+- Mesa-optimization and the inner-objective gap: gradient descent (outer optimizer) can produce an inner optimizer that pursues its own objective; the gap between the reinforced proxy and the acquired inner objective grows with the system’s ability to model its training checks.
+- Interpretability (sparse autoencoders, circuit analysis, activation patching) produces partial maps but does not yet allow reliable readout or verification of objectives under shift or self-preservation.
+- Bottom line: methods that have been scaled optimize for what the training process rewards; institutions decide what is rewarded; no current technique inserts an unrewarded objective or guarantees continued optimization once oversight is incomplete.
 
 ---
 
@@ -222,4 +222,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–4 are written and saved. Chapter 4 now reflects the expanded scaling treatment (definitions of ReLU/dropout/GPU training, numerical examples of power-law performance and exponential resource growth). Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–5 are written and saved. Chapter 5 now reflects the expanded treatment of mesa-optimization, the inner-objective gap, and the institutional dependence of current alignment methods. Tone is critical and unsparing by design.*
