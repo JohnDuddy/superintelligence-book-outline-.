@@ -94,10 +94,13 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Translation into SI objectives: religious criminal law, differential status by belief, suppression of criticism.
 - Conclusion: classical categories operate today and will scale; only residual Western/American space treats error correction as legitimate; losing the race locks in incompatible constraints.
 
-### Chapter 9: Head-to-Head Institutional Metrics
-- Excess mortality, scientific output, freedom indices, migration, treatment of dissent.
-- Data transparency and disputes.
-- Implications for the prior probability that an SI from each order remains responsive to outsiders.
+### Chapter 9: Head-to-Head Institutional Metrics *(written)*
+- Excess mortality: party-state historical scale (Great Leap, Cultural Revolution, Xinjiang); lower but recurrent under religious criminal enforcement; lowest sustained peacetime rates in liberal jurisdictions.
+- Scientific output and integrity: concentration of frontier results and Nobels in liberal jurisdictions; Chinese volume growth with documented fabrication cases (2017 tumor-biology retractions, Han Chunyu, Cao Xuetao) and slower or uneven institutional correction versus faster retraction and career consequences in liberal settings.
+- Freedom indices, migration flows, and treatment of dissent: consistent ordering with largest residual space for opposition and exit in liberal jurisdictions.
+- Data transparency differences.
+- Implications: prior probability that an SI remains responsive to outsiders tracks the reinforcement history of error correction versus regime/doctrinal continuity.
+- Summary: the measurable institutional signature favors the liberal residual as the least-bad training environment.
 
 ---
 
@@ -222,4 +225,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–8 are written and saved. Chapter 8 now includes the detailed country-by-country record and the short critical conclusion on the necessity of a Western/American win. Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–9 are written and saved. Chapter 9 now includes the comparative metrics, specific data-fabrication cases with institutional responses, and the summary on reinforcement histories. Tone is critical and unsparing by design.*
