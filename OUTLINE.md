@@ -78,14 +78,14 @@ Tone note: This outline is written in a deliberately critical register. It treat
 - Predicted optimization targets and prohibited action classes.
 - Core claim: entrusting terminal constraints primarily to changeable political authority imports ordinary reversals; systems amplify whichever constraint set is enforced during training.
 
-### Chapter 7: The Chinese Party-State System
+### Chapter 7: The Chinese Party-State System *(written)*
 - Leninist structure and the primacy of Party leadership. Not a minor administrative detail.
-- Key documents on comprehensive national security and technological self-reliance.
-- Existing control stack: Great Firewall, social-credit mechanics, facial recognition at scale, generative-AI rules that prohibit subversion of state power.
-- Military-civil fusion and documented applications.
+- Concrete operational record: Xinjiang camps and surveillance, Hong Kong National Security Law, mainland detention of critics; these are normal operating methods, not marginal excesses.
+- Existing control stack: Great Firewall, real-name registration, social-credit scoring (mechanics, rewards/penalties, alignment with Party priorities), facial recognition, generative-AI content rules.
+- Military-civil fusion and the risk that concentrated coercive power plus superintelligent tools amplifies historical patterns (Stalin, Hitler, Franco, Pinochet) of eliminating opposition.
 - Training implications: mandatory narratives, territorial claims, subordination of individual rights to regime continuity.
 - Advantages of command; risks of freezing current priorities and information controls into a superintelligent system.
-- Specific cases (Xinjiang documentation, digital controls, national-security implementation). The record is public and detailed.
+- Core claim: technical capability arrives accompanied by the constraints the trainers applied, not by liberal constraints they never applied.
 
 ### Chapter 8: Political Islam — Doctrinal Core and Governance Record
 - Scriptural and classical sources on warfare, apostasy, unbelievers, dar al-Islam/dar al-harb, jihad, jizya, dhimmi status, hudud.
@@ -223,4 +223,4 @@ Tone note: This outline is written in a deliberately critical register. It treat
 
 ---
 
-*End of consolidated outline. Chapters 1–6 are written and saved. Chapter 6 now includes the critique of governmental regulation as a primary alignment mechanism, with historical examples of reversed political judgments versus stable empirical truths. Tone is critical and unsparing by design.*
+*End of consolidated outline. Chapters 1–7 are written and saved. Chapter 7 now includes the operational record (Xinjiang, Hong Kong, mainland), social-credit mechanics, and the historical amplification risk of coercive power under superintelligence. Tone is critical and unsparing by design.*
